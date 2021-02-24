@@ -254,10 +254,10 @@ div.learntechblog {
 }
 
 .h1lt {
-
+    width: 100%;
     position: absolute;
     top: 2320px;
-    left: 614px;
+    left: 0;
 
 }
 
