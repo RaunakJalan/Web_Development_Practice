@@ -4,12 +4,17 @@ body {
 
 h1 {
   color: purple;
+  text-align: left;
 }
 
 h2 {
   color: blue;
+  font-weight: bolder;
+  text-align: center;
 }
 
 h3 {
   color: pink;
+  font-weight: bold;
+  text-align: right;
 }
