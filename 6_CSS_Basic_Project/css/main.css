@@ -76,3 +76,44 @@ img#slide {
   width: 100%;
   height: auto;
 }
+
+/* Courses Section */
+
+
+section#courses h1 {
+  font-size: 4em;
+}
+
+div.course {
+  width: 400px;
+  height: 500px;
+  left: 400px;
+  top: 1244px;
+  position: absolute;
+  background: white;
+  border: 1px solid transparent;
+}
+
+div.course2 {
+  width: 400px;
+  height: 500px;
+  left: 850px;
+  top: 1244px;
+  position: absolute;
+  background: white;
+  border: 1px solid transparent;
+}
+
+div.course3 {
+  width: 400px;
+  height: 500px;
+  left: 1300px;
+  top: 1244px;
+  position: absolute;
+  background: white;
+  border: 1px solid transparent;
+}
+
+h6 {
+	font-size: 1em;
+}
