@@ -38,3 +38,41 @@ a:hover {
   background: #09568d;
   padding: 30px;
 }
+
+/* Image Section */
+
+section#content {
+  color: white;
+  position: absolute;
+  top: 400px;
+  left: 600px;
+}
+section#content h1{
+  font-size: 4em;
+}
+
+section#content h3{
+  font-size: 2em;
+}
+
+section#content p{
+  font-size: 2em;
+}
+
+button {
+  background: #172035;
+  color: white;
+  font-size: 2em;
+  width: 50%;
+  height: 50px;
+  border: none;
+}
+
+button:hover {
+  background: #09568d;
+}
+
+img#slide {
+  width: 100%;
+  height: auto;
+}
