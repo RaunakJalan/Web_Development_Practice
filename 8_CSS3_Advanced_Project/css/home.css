@@ -68,21 +68,33 @@ button {
   font-size: 2em;
 }
 
+div.course {
+  width: 400px;
+  height: 500px;
+  top: 1250px;
+  left: 400px;
+  position: absolute;
+  border: 1px solid transparent;
+}
 
+div.course2 {
+  width: 400px;
+  height: 500px;
+  top: 1250px;
+  left: 850px;
+  position: absolute;
+  border: 1px solid transparent;
+}
 
+div.course3 {
+  width: 400px;
+  height: 500px;
+  top: 1250px;
+  left: 1300px;
+  position: absolute;
+  border: 1px solid transparent;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* test */
+h6 {
+  font-size: 1em;
+}
