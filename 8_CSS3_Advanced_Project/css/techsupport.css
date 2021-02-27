@@ -1,0 +1,39 @@
+#computer {
+  top: 250px;
+  left: 300px;
+  position: absolute;
+}
+
+.text {
+  top: 200px;
+  left: 750px;
+  position: absolute;
+}
+
+#computer2 {
+  top: 600px;
+  left: 300px;
+  position: absolute;
+}
+
+.text2 {
+  top: 550px;
+  left: 750px;
+  position: absolute;
+}
+
+#computer3 {
+  top: 950px;
+  left: 300px;
+  position: absolute;
+}
+
+.text3 {
+  top: 900px;
+  left: 750px;
+  position: absolute;
+}
+
+footer {
+  top: 1300px;
+}
