@@ -35,6 +35,32 @@ nav a:hover {
   background: #09568d;
 }
 
+h1 {
+  font-size: 4em;
+}
+
+h3 {
+  font-size: 2em;
+}
+
+p {
+  font-size: 2em;
+}
+
+h6 {
+  font-size: 1em;
+}
+
+button {
+  background: #172035;
+  border: none;
+  width: 50%;
+  height: 50px;
+  color: white;
+  font-size: 2em;
+}
+
+
 footer {
   background: #172035;
   width: 100%;

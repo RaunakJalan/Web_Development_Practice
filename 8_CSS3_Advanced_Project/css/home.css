@@ -5,30 +5,9 @@ section#content {
   position: absolute;
 }
 
-h1 {
-  font-size: 4em;
-}
-
-h3 {
-  font-size: 2em;
-}
-
-p {
-  font-size: 2em;
-}
-
 img#slide {
   width: 100%;
   height: auto;
-}
-
-button {
-  background: #172035;
-  border: none;
-  width: 50%;
-  height: 50px;
-  color: white;
-  font-size: 2em;
 }
 
 div.course {
@@ -58,9 +37,7 @@ div.course3 {
   border: 1px solid transparent;
 }
 
-h6 {
-  font-size: 1em;
-}
+
 
 section#about {
   background: #252525;
