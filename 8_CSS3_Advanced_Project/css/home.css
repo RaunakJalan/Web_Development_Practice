@@ -1,40 +1,3 @@
-body {
-  font-family: roboto;
-}
-
-header {
-  width: 100%;
-  background: #172035;
-  height: 80px;
-}
-
-img#logo {
-  top: 20px;
-  left: 0;
-  margin-left: 100px;
-  margin-right: 100px;
-  position: absolute;
-}
-
-nav {
-  display: inline-block;
-  margin-left: 400px;
-  margin-top: 30px;
-}
-
-nav a {
-  text-decoration: none;
-  color: white;
-  padding: 30px;
-  margin-right: 20px;
-}
-
-nav a:hover {
-  color: white;
-  padding: 30px;
-  background: #09568d;
-}
-
 section#content {
   color: white;
   top: 400px;
@@ -193,17 +156,5 @@ div.learntechblog {
 }
 
 footer {
-  background: #172035;
-  width: 100%;
-  height: 80px;
   top: 3050px;
-  left: 0;
-  position: absolute;
-}
-
-p#footer {
-  color: white;
-  font-size: 1em;
-  text-align: center;
-  margin-top: 32px;
 }
